@@ -18,16 +18,16 @@
 </head>
 <body>
 안녕하세요<br>오늘은 젠킨스 CICD 파이프라인 구축할 예정입니다<br>
-,     #_<br>
-   ~\_  ####_   <br>   
-  ~~  \_#####\<br>
-  ~~     \###|<br>
-  ~~       \#/ __<br>_   
-   ~~       V~' '-><br>
-    ~~~         /<br>
-      ~~._.   _/<br>
-         _/ _/<br>
-       _/m/'<br>
+,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;~\_&nbsp;&nbsp;####_<br>   
+&nbsp;&nbsp;~~&nbsp;&nbsp;\_#####\<br>
+&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\###|<br>
+&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\#/&nbsp;___   
+&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V~'&nbsp;'-><br>
+&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~._.&nbsp;&nbsp;&nbsp;_/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_/&nbsp;_/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_/m/'<br>
 <img alt="" src="../11.png" style="width: 300px;">
 </body>
 </html>
